@@ -1,0 +1,66 @@
+body {
+  padding: 0;
+  margin: 0;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  color: #FFFFFF;
+}
+
+.lt-onecolumn-common {
+  margin: 0 auto;
+  padding-top: 13px;
+  padding-bottom: 12px;
+  padding-left: 80px;
+  padding-right: 84px;
+}
+
+.lt-block-wrapper {
+  margin: 0 auto;
+  border-radius: 30px;
+  background-image: url("girlOnBeach.png") no-repeat center border-box !important;
+  background:
+  linear-gradient(90deg rgba(11, 116, 149, 0.25) 0%,
+  rgba(207, 0, 124, 0.25) 100%);
+  background-size: cover;
+}
+
+.text-left {
+  padding-left: 63px;
+  padding-top: 44px;
+  padding-bottom: 33px;
+}
+
+.f-subheader__top {
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFE600;
+  margin-bottom: 4px;
+}
+
+ .f-header {
+  font-weight: 900;
+  font-size: 42px;
+  line-height: 46px;
+}
+
+.f-subheader__bottom {
+  font-size: 24px;
+  line-height: 33px;
+}
+
+
+
+.btn {
+  padding: 16px 63px;
+  background: #FFE600 !important;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  font-family: Roboto !important;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 20px;
+  color: #000000 !important;
+}
